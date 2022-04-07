@@ -1,4 +1,5 @@
-## <center>Oi, sou o Nelson Amorim!<br>Bem vindo a minha page! Stonks!🚀</center>
+<h1 align="center"> Oi, sou o Nelson Amorim!<br>Bem vindo a minha page! Stonks!🚀</h1>
+<p align="center">Front-End Developer</p>
 <div align="center">
   <a href="https://github.com/nelsonamorim">
   <img height="155em" src="https://github-readme-stats.vercel.app/api?username=nelsonamorim&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>

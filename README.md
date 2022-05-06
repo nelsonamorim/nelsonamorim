@@ -12,7 +12,6 @@
   <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Nelson-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nelson-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Nelson-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/769777604286218312/959203350153420870/output_h2EmNf.gif?width=676&height=676">
 </div>
   
   ##

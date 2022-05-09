@@ -1,4 +1,4 @@
-<h1 align="center"> Oi, sou o Nelson Amorim!<br>Bem vindo a minha page! Stonks!🚀</h1>
+<h1 align="center"> Oi, sou o Nelson Amorim!<br>Bem vindo a minha page!🚀</h1>
 <p align="center">Front-End Developer</p>
 <div align="center">
   <a href="https://github.com/nelsonamorim">

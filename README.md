@@ -22,5 +22,7 @@
   <a href = "https://mail.google.com/mail/u/0/#inbox?compose=CllgCHrjFGtFpSWmCfnPdHPFvgBsPcdHHcxfSSXKgcpfJGrClFNBtTlHdFWHZZZXDTDZPTttXnV"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
   ![Snake animation](https://github.com/nelsonamorim/nelsonamorim/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
+  <div align="center"><h2>Meus principais projetos estão aqui em baixo, dá uma olhada!</h2>
+    <img src="https://user-images.githubusercontent.com/41841454/167220106-fdcd138f-7a91-4dfd-9a94-b5ef671b859c.gif">
+  </div>

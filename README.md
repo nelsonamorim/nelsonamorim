@@ -1,5 +1,5 @@
 <h1 align="center">Oi, sou o Nelson Amorim!:wave:</h1>
-<p align="center">Front-End Developer</p>
+<p align="center">Web Developer</p>
 <div align="center">
   <a href="https://github.com/nelsonamorim">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelsonamorim&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,68f1ff,a945ff,3b3539&hide_border=true"/>

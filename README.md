@@ -2,8 +2,7 @@
 <p align="center">Web Developer</p>
 <div align="center">
   <a href="https://github.com/nelsonamorim">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nelsonamorim&show_icons=true&include_all_commits=true&count_private=true&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,68f1ff,a945ff,3b3539&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonamorim&layout=demo&langs_count=7&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&bg_color=DEG,68f1ff,a945ff,3b3539&hide_border=true"/>
+  
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Nelson-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
